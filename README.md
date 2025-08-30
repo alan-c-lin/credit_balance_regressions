@@ -18,11 +18,14 @@ This project explores the `Credit` dataset from the `ISLP` package to model and 
 
 ## Requirements
 
-- Python (≥ 3.8)
+- Python (3.10.16 recommended)
 - Jupyter Notebook / Jupyter Lab
 - Python packages: `pandas`, `numpy`, `matplotlib`, `seaborn`, `statsmodels`, `ISLP`
 
-You can install the required packages using: `pip install pandas numpy matplotlib seaborn statsmodels ISLP`
+You can install the required packages using: 
+```{bash}
+pip install pandas numpy matplotlib seaborn statsmodels ISLP
+```
 
 ## How to Use
 
